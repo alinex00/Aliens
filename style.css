@@ -311,6 +311,7 @@ nav ul .fa-square-xmark,
 #deatils-about{
   display: grid;
   color: #ffa500;
+  background-color:#000000;
   grid-template-rows: auto;
   word-wrap: normal;
   font-size: 22px;
